@@ -12,4 +12,4 @@
     2) pip install open3d
     3) pythn main.py
             OR
-    5) Run Demo.ipynb
+    4) Run Demo.ipynb
