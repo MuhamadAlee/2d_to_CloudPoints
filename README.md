@@ -4,6 +4,6 @@
 
 **Setup**
 
-1) Clone Repository
+1) git clon https://github.com/MuhamadAlee/2d_to_CloudPoints.git
 2) pip install open3d
 3) pythn main.py
